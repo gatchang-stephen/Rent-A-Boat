@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rent-A-Boat</string>
+    <string name="full_name">Full Name</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="orders">Orders</string>
+    <string name="feed">Feed</string>
+    <string name="_15_sep_2018_rented_boat_in_canary_islands">15 Sep. 2018: Rented boat in Canary Islands</string>
+    <string name="_31_aug_2018_rented_boat_in_mallorca">31 Aug. 2018: Rented boat in Mallorca</string>
+    <string name="_20_aug_2018_rented_boat_in_barcelona">20 Aug. 2018: Rented boat in Barcelona</string>
+    <string name="fragment_orders">Past Orders</string>
+    <string name="fragment_feed">Boat Feed</string>
+</resources>
